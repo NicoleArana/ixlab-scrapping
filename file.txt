@@ -1,0 +1,3075 @@
+Concentración Arte, Objeto y Moda QRO AD2023
+Appending video duration: 00:35
+Appending video duration: 00:45
+Appending video duration: 00:25
+Appending video duration: 00:10
+Appending video duration: 00:34
+Appending video duration: 00:29
+Appending video duration: 00:37
+Appending video duration: 00:24
+Appending video duration: 00:13
+Appending video duration: 00:15
+Appending video duration: 00:19
+Appending video duration: 00:21
+Appending video duration: 00:37
+Appending video duration: 00:31
+Appending video duration: 00:27
+Appending video duration: 00:38
+Appending video duration: 00:28
+Appending video duration: 00:27
+Appending video duration: 00:39
+Appending video duration: 00:35
+Appending video duration: 00:29
+Appending video duration: 00:44
+Appending video duration: 00:27
+Appending video duration: 00:31
+Appending video duration: 01:24
+Appending video duration: 00:24
+Nombre: Judith Ileana Galván
+Correo: judith.rodriguez.galvan@tec.mx
+Fecha de inscripcion: 2 Oct, 2023
+Last visit: 18 Oct, 2023
+lenght of submodules: 13
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['Suspenso']
+lenght of submodules: 15
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 0
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Abraham Enriquez
+Correo: abraham.eg@tec.mx
+Fecha de inscripcion: 29 Sep, 2023
+Last visit: 29 Sep, 2023
+lenght of submodules: 13
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['Suspenso']
+lenght of submodules: 15
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 0
+lenght of submodules: 1
+Entered de loop 0
+['']
+ADDING TO DF2
+['modulo: 33', 'sub_modulo: 33', 'tipo de archivo: 33', 'duracion: 33']
+{'nombre': ['Judith Ileana Galván', 'Abraham Enriquez'], 'Manual Propuesta De Valor (1)': [0, 0], 'Bienvenida del profesor (2)': [0, 1], 'Introducción: Propuesta de Valor (3)': [0, 0], 'Value Proposition Canvas (4)': [0, 0], 'Cliente (5)': [0, 0], 'Customer Jobs (6)': [0, 0], 'Pains (7)': [0, 0], 'Gains (8)': [0, 0], 'Producto (9)': [0, 0], 'Products And Services (10)': [0, 0], 'Pain Relievers (11)': [0, 0], 'Gain Creators (12)': [0, 0], 'Cierre (13)': [0, 0], 'Diagnóstico Modelo de Negocios (14)': [0, 0], 'Manual Modelo de Negocios (15)': [0, 0], 'Clase 1. Presentación (16)': [0, 0], 'Clase 2. Introducción (17)': [0, 0], 'Clase 3. Actividades Clave (18)': [0, 0], 'Clase 4. Alianzas Clave (19)': [0, 0], 'Clase 5. Business Model Canvas (20)': [0, 0], 'Clase 6. Business Model Kit - Parte 1 (21)': [0, 0], 'Clase 7. Business Model Kit - Parte 2 (22)': [0, 0], 'Clase 8. Canales (23)': [0, 0], 'Clase 9. Relación con los Clientes (24)': [0, 0], 'Clase 10. ¿Cuándo usar el Business Model Canvas? (25)': [0, 0], 'Clase 11. Estructura de Costos (26)': [0, 0], 'Clase 12. Flujo de Ingresos (27)': [0, 0], 'Clase 13. Pasos (28)': [0, 0], 'Clase 14. Conclusiones y cierre (29)': [0, 0], 'Encuesta de satisfacción (30)': [0, 0]}
+Crash Course Gestión de Fondos
+Appending video duration: 00:49
+Appending video duration: 04:24
+Appending video duration: 02:51
+Appending video duration: 04:07
+Appending video duration: 03:33
+Appending video duration: 03:15
+Appending video duration: 04:04
+Appending video duration: 03:25
+Appending video duration: 01:05
+Nombre: Juan Carlos García
+Correo: a01638105@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '51', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '4', 'min', '27', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '3', 'min']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '45', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '3', 'min', '30', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '3', 'min', '32', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '4', 'min', '29', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '3', 'min', '21', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '4', 'sec']
+Nombre: Andrea Goreti Flores Dávalos
+Correo: A01637540@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 11 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '49', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '7', 'min', '4', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '3', 'min']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '45', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '4', 'min', '13', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '4', 'min', '19', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '4', 'min', '22', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '3', 'min', '23', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '5', 'sec']
+Nombre: Mariana Lopez
+Correo: a01635447@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '49', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '5', 'min', '58', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '2', 'min', '46', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '40', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '3', 'min', '30', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '3', 'min', '12', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '5', 'min', '4', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '3', 'min', '20', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '4', 'sec']
+Nombre: Andrea Donaxi Madrigal Salazar
+Correo: a01632464@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '49', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '8', 'min', '50', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '2', 'min', '51', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '7', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '3', 'min', '32', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '3', 'min', '15', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '4', 'min', '4', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '3', 'min', '25', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '5', 'sec']
+Nombre: Uzi Silem Cuevas Moreno
+Correo: a01632564@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 10 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '49', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '4', 'min', '49', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '3', 'min', '32', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '11', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '3', 'min', '25', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '4', 'min', '29', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '4', 'min', '9', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '3', 'min', '18', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '5', 'sec']
+Nombre: Thelma Alejandra Ureña Flores
+Correo: A01638018@tec.mx
+Fecha de inscripcion: 28 Oct, 2023
+Last visit: 28 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '49', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '4', 'min', '25', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '2', 'min', '45', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '6', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '3', 'min', '32', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '3', 'min', '11', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '4', 'min', '2', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '3', 'min', '18', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '7', 'sec']
+Nombre: Karina Franco
+Correo: A01637298@tec.mx
+Fecha de inscripcion: 28 Oct, 2023
+Last visit: 28 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '49', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '4', 'min', '23', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '11', 'min', '30', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '17', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '4', 'min']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '3', 'min', '56', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '4', 'min', '13', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '3', 'min', '24', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '26', 'sec']
+Nombre: Erika Alfaro
+Correo: Erika.alfaro@tec.mx
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 27 Sep, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '39', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '35', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Nombre: Neydeli Ayala
+Correo: neydeli@tec.mx
+Fecha de inscripcion: 25 Oct, 2023
+Last visit: 9 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Nombre: cristina comte
+Correo: cristycl99@hotmail.com
+Fecha de inscripcion: 28 Oct, 2023
+Last visit: 15 Oct, 2023
+lenght of submodules: 0
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+ADDING TO DF2
+['modulo: 10', 'sub_modulo: 10', 'tipo de archivo: 10', 'duracion: 10']
+{'nombre': ['Juan Carlos García', 'Andrea Goreti Flores Dávalos', 'Mariana Lopez', 'Andrea Donaxi Madrigal Salazar', 'Uzi Silem Cuevas Moreno', 'Thelma Alejandra Ureña Flores', 'Karina Franco', 'Erika Alfaro', 'Neydeli Ayala', 'cristina comte'], 'Introducción al Curso Gestión de Fondos (1)': [51, 49, 49, 49, 49, 49, 49, 99, 0, 0], 'Definición y características de un proyecto (2)': [267, 424, 358, 530, 289, 265, 263, 155, 0, 0], 'Tipos de fondos de apoyo (3)': [180, 180, 166, 171, 212, 165, 690, 0, 0, 0], 'Características de una convocatoria. Parte 1 (4)': [285, 285, 280, 247, 251, 246, 257, 0, 0, 0], 'Características de una convocatoria. Parte 2 (5)': [210, 253, 210, 212, 205, 212, 240, 0, 0, 0], 'Niveles de maduración tecnológica (6)': [212, 259, 192, 195, 269, 191, 236, 0, 0, 0], 'Herramientas para la búsqueda de convocatorias (7)': [269, 262, 304, 244, 249, 242, 253, 0, 0, 0], 'Ejemplo de proyecto con gestión de fondos (8)': [201, 203, 200, 205, 198, 198, 204, 0, 0, 0], 'Conclusiones finales del curso (9)': [64, 65, 64, 65, 65, 67, 86, 0, 0, 0]}
+Crash Course TRL
+Appending video duration: 02:53
+Appending video duration: 05:48
+Appending video duration: 07:00
+Appending video duration: 08:24
+Appending video duration: 04:07
+Appending video duration: 03:35
+Appending video duration: 04:17
+ADDING TO DF2
+['modulo: 10', 'sub_modulo: 10', 'tipo de archivo: 10', 'duracion: 10']
+{'nombre': []}
+Crash Course Pitch
+Appending video duration: 01:29
+Appending video duration: 01:01
+Appending video duration: 02:22
+Appending video duration: 02:03
+Appending video duration: 01:46
+Appending video duration: 02:07
+Appending video duration: 04:19
+Appending video duration: 02:43
+Appending video duration: 04:08
+Appending video duration: 01:13
+Appending video duration: 01:17
+Appending video duration: 03:00
+Appending video duration: 04:05
+Appending video duration: 03:20
+Appending video duration: 02:24
+Appending video duration: 11:20
+Appending video duration: 05:08
+Appending video duration: 02:57
+Nombre: Uzi Silem Cuevas Moreno
+Correo: a01632564@tec.mx
+Fecha de inscripcion: 26 Oct, 2023
+Last visit: 10 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '30', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min', '2', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '2', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '41', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '2', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '46', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '2', 'min', '26', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '46', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min', '41', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '7', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '1', 'min', '11', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '1', 'min', '16', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '2', 'min', '59', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '4', 'min']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '3', 'min', '15', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '2', 'min', '19', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '16', 'min', '30', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '5', 'min', '6', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '2', 'min', '58', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Mariana Lopez
+Correo: a01635447@tec.mx
+Fecha de inscripcion: 26 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '32', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min', '28', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '36', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '22', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '43', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '2', 'min', '7', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '22', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min', '43', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '52', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '1', 'min', '25', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '1', 'min', '15', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '6', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '4', 'min', '15', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '4', 'min', '7', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '2', 'min', '23', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '14', 'min', '57', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '5', 'min', '13', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '2', 'min', '58', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Juan Carlos García
+Correo: a01638105@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '30', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min', '3', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '2', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '22', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '3', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '46', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '2', 'min', '7', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '20', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min', '43', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '9', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '1', 'min', '12', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '1', 'min', '17', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '4', 'min', '10', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '3', 'min', '20', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '2', 'min', '24', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '13', 'min', '23', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '5', 'min', '6', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '2', 'min', '57', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Andrea Goreti Flores Dávalos
+Correo: A01637540@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 11 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '30', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '54', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '39', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '3', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '46', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '2', 'min', '7', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '20', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min', '43', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '8', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '1', 'min', '12', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '1', 'min', '17', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '2', 'min', '58', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '4', 'min', '5', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '3', 'min', '20', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '2', 'min', '23', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '15', 'min', '25', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '5', 'min', '8', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '2', 'min', '57', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Thelma Alejandra Ureña Flores
+Correo: A01638018@tec.mx
+Fecha de inscripcion: 28 Oct, 2023
+Last visit: 28 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '29', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '5', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '22', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '2', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '42', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '2', 'min', '6', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '8', 'min', '45', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min', '43', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '8', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '1', 'min', '12', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '1', 'min', '17', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '2', 'min', '56', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '4', 'min', '5', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '3', 'min', '17', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '2', 'min', '22', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '11', 'min', '20', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '5', 'min', '4', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '2', 'min', '57', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Karina Franco
+Correo: A01637298@tec.mx
+Fecha de inscripcion: 29 Oct, 2023
+Last visit: 28 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '28', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min', '3', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '1', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '24', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '58', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '42', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '2', 'min', '2', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '18', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min', '39', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '12', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '1', 'min', '12', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '1', 'min', '16', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '2', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '4', 'min', '3', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '3', 'min', '27', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '2', 'min', '26', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '11', 'min', '18', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '5', 'min', '7', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '2', 'min', '57', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: cristina comte
+Correo: cristycl99@hotmail.com
+Fecha de inscripcion: 26 Oct, 2023
+Last visit: 15 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '32', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min', '2', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '4', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '30', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '27', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '43', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '2', 'min', '25', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '18', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min', '43', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '5', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '44', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Neydeli Ayala
+Correo: neydeli@tec.mx
+Fecha de inscripcion: 26 Oct, 2023
+Last visit: 9 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '29', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '24', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '21', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '28', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '48', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '3', 'min', '14', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '5', 'min', '19', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '1', 'min', '49', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Gerardo Estrada
+Correo: A01283531@tec.mx
+Fecha de inscripcion: 3 Oct, 2023
+Last visit: 3 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '49', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min', '9', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '3', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '1', 'min', '49', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Daniela Martínez Cepeda
+Correo: danielamtzc@gmail.com
+Fecha de inscripcion: 2 Oct, 2023
+Last visit: 2 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Susana Scott Ayala
+Correo: a01177216@tec.mx
+Fecha de inscripcion: 2 Oct, 2023
+Last visit: 2 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '7', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Arlette Santacruz Lopez
+Correo: asantacruz@tec.mx
+Fecha de inscripcion: 4 Oct, 2023
+Last visit: 4 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Andrea Donaxi Madrigal Salazar
+Correo: a01632464@tec.mx
+Fecha de inscripcion: 27 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '29', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+ADDING TO DF2
+['modulo: 20', 'sub_modulo: 20', 'tipo de archivo: 20', 'duracion: 20']
+{'nombre': ['Uzi Silem Cuevas Moreno', 'Mariana Lopez', 'Juan Carlos García', 'Andrea Goreti Flores Dávalos', 'Thelma Alejandra Ureña Flores', 'Karina Franco', 'cristina comte', 'Neydeli Ayala', 'Gerardo Estrada', 'Daniela Martínez Cepeda', 'Susana Scott Ayala', 'Arlette Santacruz Lopez', 'Andrea Donaxi Madrigal Salazar'], 'Bienvenida (1)': [90, 92, 90, 90, 89, 88, 92, 89, 109, 0, 7, 0, 89], 'Apéndice (2)': [62, 88, 63, 174, 60, 63, 62, 60, 69, 0, 0, 0, 0], 'Material complementario: Pitch Canvas (3)': [2, 0, 2, 0, 5, 1, 4, 24, 3, 0, 0, 0, 0], 'Conectar (4)': [161, 156, 142, 159, 142, 144, 150, 141, 109, 0, 0, 0, 0], '¿Para qué? (5)': [122, 142, 123, 123, 122, 118, 147, 148, 0, 0, 0, 0, 0], 'Para quién - Parte 1 (6)': [106, 103, 106, 106, 102, 102, 103, 108, 0, 0, 0, 0, 0], 'Para quién - Parte 2 (7)': [146, 127, 127, 127, 126, 122, 145, 194, 0, 0, 0, 0, 0], 'Storytelling - Parte 1 (8)': [286, 262, 260, 260, 525, 258, 258, 319, 0, 0, 0, 0, 0], 'Storytelling - Parte 2 (9)': [161, 163, 163, 163, 163, 159, 163, 109, 0, 0, 0, 0, 0], 'Narrativa (10)': [247, 292, 249, 248, 248, 252, 245, 0, 0, 0, 0, 0, 0], 'Recapitulación (11)': [71, 85, 72, 72, 72, 72, 44, 0, 0, 0, 0, 0, 0], 'La Acción (12)': [76, 75, 77, 77, 77, 76, 0, 0, 0, 0, 0, 0, 0], 'Pasado (13)': [179, 186, 180, 178, 176, 182, 0, 0, 0, 0, 0, 0, 0], 'Presente (14)': [240, 255, 250, 245, 245, 243, 0, 0, 0, 0, 0, 0, 0], 'Futuro (15)': [195, 247, 200, 200, 197, 207, 0, 0, 0, 0, 0, 0, 0], 'Call to Action (16)': [139, 143, 144, 143, 142, 146, 0, 0, 0, 0, 0, 0, 0], 'Ejemplo - Rutopia (17)': [990, 897, 803, 925, 680, 678, 0, 0, 0, 0, 0, 0, 0], 'Comentarios Finales (18)': [306, 313, 306, 308, 304, 307, 0, 0, 0, 0, 0, 0, 0], 'Canvas Storytelling (19)': [178, 178, 177, 177, 177, 177, 0, 0, 0, 0, 0, 0, 0], 'Ejemplo - Encuesta de satisfacción (20)': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+Crash Course Iteración financiera
+Appending video duration: 02:26
+Appending video duration: 01:49
+Appending video duration: 02:14
+Appending video duration: 07:44
+Appending video duration: 02:23
+Appending video duration: 09:53
+Appending video duration: 02:49
+Appending video duration: 02:42
+Appending video duration: 08:50
+Appending video duration: 03:37
+Appending video duration: 09:25
+Appending video duration: 01:40
+Appending video duration: 15:08
+Appending video duration: 03:12
+Appending video duration: 04:53
+Nombre: Uzi Silem Cuevas Moreno
+Correo: a01632564@tec.mx
+Fecha de inscripcion: 9 Oct, 2023
+Last visit: 10 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '9', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '26', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '47', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '29', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '52', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '9', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '9', 'min', '2', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '45', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '9', 'min', '33', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '2', 'min', '47', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '2', 'min', '39', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '7', 'min', '56', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '32', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '9', 'min', '22', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '1', 'min', '40', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '15', 'min', '1', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '3', 'min', '11', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '4', 'min', '52', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '3', 'min', '45', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Andrea Goreti Flores Dávalos
+Correo: A01637540@tec.mx
+Fecha de inscripcion: 9 Oct, 2023
+Last visit: 11 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '29', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '24', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '8', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '8', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '52', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '3', 'min', '16', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '22', 'min', '57', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '7', 'min']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '5', 'min', '1', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '12', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Juan Carlos García
+Correo: a01638105@tec.mx
+Fecha de inscripcion: 12 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '13', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '29', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '1', 'min', '54', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '50', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '51', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '7', 'min', '47', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '23', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '9', 'min', '51', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '3', 'min', '42', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '3', 'min', '10', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '9', 'min', '3', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '50', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '12', 'min', '28', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '1', 'min', '41', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '16', 'min', '31', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '3', 'min', '17', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '6', 'min', '16', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '7', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Rebeca Morones
+Correo: A01251492@tec.mx
+Fecha de inscripcion: 14 Oct, 2023
+Last visit: 14 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '11', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '27', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '1', 'min', '23', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '50', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '13', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '7', 'min', '48', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '24', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '12', 'min', '23', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '2', 'min', '51', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '2', 'min', '42', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '8', 'min', '50', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '39', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '9', 'min', '25', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '1', 'min', '40', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '15', 'min', '7', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '3', 'min', '12', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '9', 'min', '44', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '25', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Julia Perez
+Correo: A01638777@tec.mx
+Fecha de inscripcion: 15 Oct, 2023
+Last visit: 15 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '30', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '38', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '47', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '9', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '30', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Andrea Donaxi Madrigal Salazar
+Correo: a01632464@tec.mx
+Fecha de inscripcion: 15 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '22', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '28', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '1', 'min', '14', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '14', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '51', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '5', 'min', '13', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '7', 'min', '45', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '23', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '9', 'min', '53', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '2', 'min', '42', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '8', 'min', '50', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '36', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '9', 'min', '25', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '1', 'min', '40', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '15', 'min', '8', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '3', 'min', '12', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '4', 'min', '52', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '12', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Thelma Alejandra Ureña Flores
+Correo: A01638018@tec.mx
+Fecha de inscripcion: 14 Oct, 2023
+Last visit: 28 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '5', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '29', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '8', 'min', '52', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '30', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '49', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '20', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '8', 'min', '34', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '40', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '9', 'min', '49', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '3', 'min', '21', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '2', 'min', '58', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '8', 'min', '51', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '38', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '8', 'min', '8', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '1', 'min', '31', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '3', 'min', '32', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '3', 'min', '12', 'sec']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '4', 'min', '52', 'sec']
+Entered de loop 18
+['Tiempo', 'empleado', ':']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Neydeli Ayala
+Correo: neydeli@tec.mx
+Fecha de inscripcion: 3 Oct, 2023
+Last visit: 9 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '3', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '26', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '3', 'min', '41', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '49', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '4', 'min', '15', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '11', 'min', '7', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '11', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '9', 'min', '46', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '7', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '7', 'min', '30', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '13', 'min', '36', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '7', 'min', '28', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '16', 'min', '15', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '2', 'min', '14', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '12', 'min', '49', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: cristina comte
+Correo: cristycl99@hotmail.com
+Fecha de inscripcion: 12 Oct, 2023
+Last visit: 15 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '8', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '27', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '1', 'min', '32', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '27', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '26', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '12', 'min', '17', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '23', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '11', 'min', '25', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '4', 'min', '11', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '6', 'min', '36', 'sec']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '20', 'min', '45', 'sec']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '3', 'min', '37', 'sec']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '28', 'min', '33', 'sec']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '2', 'min', '27', 'sec']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '14', 'min', '24', 'sec']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Andrea Navarro
+Correo: a01637590@tec.mx
+Fecha de inscripcion: 11 Oct, 2023
+Last visit: 15 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '35', 'min', '19', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '15', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '43', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '24', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '48', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '15', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '7', 'min', '44', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '23', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '4', 'min', '59', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Jose pablo Cacho cuevas
+Correo: josepablocacho@hotmail.com
+Fecha de inscripcion: 15 Oct, 2023
+Last visit: 15 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '10', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '25', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '53', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '50', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '9', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Natalia Alvarez
+Correo: A00572700@tec.mx
+Fecha de inscripcion: 10 Oct, 2023
+Last visit: 15 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '6', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '2', 'min', '26', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '34', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '1', 'min', '49', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '13', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '7', 'min', '42', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '2', 'min', '23', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '9', 'min', '38', 'sec']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Daniela Martínez Cepeda
+Correo: danielamtzc@gmail.com
+Fecha de inscripcion: 2 Oct, 2023
+Last visit: 2 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '9', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Mariana Lopez
+Correo: a01635447@tec.mx
+Fecha de inscripcion: 11 Oct, 2023
+Last visit: 27 Oct, 2023
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '4', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+ADDING TO DF2
+['modulo: 20', 'sub_modulo: 20', 'tipo de archivo: 20', 'duracion: 20']
+{'nombre': ['Uzi Silem Cuevas Moreno', 'Andrea Goreti Flores Dávalos', 'Juan Carlos García', 'Rebeca Morones', 'Julia Perez', 'Andrea Donaxi Madrigal Salazar', 'Thelma Alejandra Ureña Flores', 'Neydeli Ayala', 'cristina comte', 'Andrea Navarro', 'Jose pablo Cacho cuevas', 'Natalia Alvarez', 'Daniela Martínez Cepeda', 'Mariana Lopez'], 'Antes de Empezar (1)': [9, 29, 13, 11, 0, 22, 5, 3, 8, 2119, 10, 6, 9, 4], 'Bienvenida del profesor (2)': [146, 0, 149, 147, 30, 148, 149, 146, 147, 135, 145, 146, 0, 0], 'Manual de uso: Iteración Financiera (3)': [47, 24, 114, 83, 38, 74, 532, 221, 92, 43, 53, 34, 0, 0], 'Guía Iteración Financiera (4)': [29, 8, 0, 0, 0, 14, 30, 0, 0, 24, 0, 0, 0, 0], 'Introducción: Iteración Financiera (5)': [112, 0, 110, 110, 107, 111, 109, 109, 147, 108, 110, 109, 0, 0], 'CAPEX (6)': [129, 128, 171, 133, 129, 313, 140, 255, 146, 135, 129, 133, 0, 0], 'Ejercicio CAPEX (7)': [542, 0, 467, 468, 30, 465, 514, 667, 737, 464, 0, 462, 0, 0], 'OPEX (8)': [165, 0, 143, 144, 2, 143, 160, 251, 143, 143, 0, 143, 0, 0], 'Ejercicio OPEX (9)': [573, 0, 591, 743, 0, 593, 589, 586, 685, 299, 0, 578, 0, 0], 'Introducción a Costeo (10)': [167, 0, 222, 171, 0, 0, 201, 247, 251, 0, 0, 0, 0, 0], 'Costeo y Análisis De Rentabilidad (11)': [159, 0, 190, 162, 0, 162, 178, 450, 396, 0, 0, 0, 0, 0], 'Ejercicio Costeo Trabajo (12)': [476, 0, 543, 530, 0, 530, 531, 816, 1245, 0, 0, 0, 0, 0], 'Análisis De Escalabilidad Con UE (13)': [212, 0, 230, 219, 0, 216, 218, 448, 217, 0, 0, 0, 0, 0], 'Ejercicio Unidades Económicas (14)': [562, 52, 748, 565, 0, 565, 488, 975, 1713, 0, 0, 0, 0, 0], 'Proyección Financiera (15)': [100, 196, 101, 100, 0, 100, 91, 134, 147, 0, 0, 0, 0, 0], 'Ejercicio Proyección Financiera (16)': [901, 1377, 991, 907, 0, 908, 212, 769, 864, 0, 0, 0, 0, 0], 'Valuación (17)': [191, 420, 197, 192, 0, 192, 192, 0, 0, 0, 0, 0, 0, 0], 'Ejercicio Valuación (18)': [292, 301, 376, 584, 0, 292, 292, 0, 0, 0, 0, 0, 0, 0], 'Último Paso: Iteración Financiera (19)': [225, 12, 7, 25, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0], 'Ejemplo - Encuesta de satisfacción (20)': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+Proyecto Integrador de Comunicación Nacional
+Appending video duration: 01:58
+Appending video duration: 02:14
+Appending video duration: 07:44
+Appending video duration: 02:23
+Appending video duration: 09:53
+Appending video duration: 02:49
+Appending video duration: 13:48
+Appending video duration: 09:02
+Appending video duration: 06:14
+Appending video duration: 07:36
+Appending video duration: 04:15
+Appending video duration: 06:00
+Appending video duration: 13:36
+Appending video duration: 12:41
+Appending video duration: 21:59
+Appending video duration: 10:37
+Appending video duration: 18:52
+Appending video duration: 09:56
+Appending video duration: 10:08
+Appending video duration: 10:49
+Appending video duration: 05:55
+Appending video duration: 16:34
+Appending video duration: 14:22
+Nombre: Luis Ernesto Gamboa Tello
+Correo: luis2001ernesto@gmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 7 Oct, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '5', 'min', '12', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '5', 'min', '14', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '24', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '10', 'min', '31', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '2', 'min', '35', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '9', 'min', '41', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '4', 'min', '54', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '17', 'min', '2', 'sec']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '6', 'min', '15', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '7', 'min', '49', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '4', 'min', '15', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '5', 'min', '59', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '17', 'min', '22', 'sec']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '9', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '12', 'min', '35', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '21', 'min', '47', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '21', 'min', '37', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '18', 'min', '59', 'sec']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '55', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '9', 'min', '49', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '10', 'min', '24', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '10', 'min', '33', 'sec']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '14', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '5', 'min', '40', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '16', 'min']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '14', 'min', '41', 'sec']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Judith Ileana Galván
+Correo: judith.rodriguez.galvan@tec.mx
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 18 Oct, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Sebastian Espinosa
+Correo: sebasespinosa.jasso@gmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '14', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Vanesa Vazquez Contreras
+Correo: a01658954@tec.mx
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Dinorah Pesqueira
+Correo: dinorahpesqueira@tec.mx
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Karen Elena Tovar Medel
+Correo: tovarkaren257@gmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Angela María Cornelio Martínez
+Correo: angiecorma@gmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '1', 'min', '7', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Jaqueline Bernacho Aguilar
+Correo: juby_1217@hotmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Azul Fernanda Pagnotta Serrano
+Correo: a01706294@tec.mx
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Paula Scalona
+Correo: a01769087@tec.mx
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Omar Axel Mora Montaño
+Correo: omaraxel.mora.montano@gmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Cristobal Escobosa
+Correo: cris.escobosab@gmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: Isabel Arguero
+Correo: isa_arguero@hotmail.com
+Fecha de inscripcion: 26 Sep, 2023
+Last visit: 26 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+ADDING TO DF2
+['modulo: 29', 'sub_modulo: 29', 'tipo de archivo: 29', 'duracion: 29']
+{'nombre': ['Luis Ernesto Gamboa Tello', 'Judith Ileana Galván', 'Sebastian Espinosa', 'Vanesa Vazquez Contreras', 'Dinorah Pesqueira', 'Karen Elena Tovar Medel', 'Angela María Cornelio Martínez', 'Jaqueline Bernacho Aguilar', 'Azul Fernanda Pagnotta Serrano', 'Paula Scalona', 'Omar Axel Mora Montaño', 'Cristobal Escobosa', 'Isabel Arguero'], 'Playbook: El Valor de tu experiencia (1)': [312, 0, 14, 0, 0, 0, 67, 0, 0, 0, 0, 0, 0], 'Video #1: Introducción a las finanzas emprendedoras (2)': [314, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #2: CAPEX (3)': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #3: Ejercicio CAPEX (4)': [144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #4: OPEX (5)': [631, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #5: Ejercicio OPEX (6)': [155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #6. Introducción a Costeo (7)': [581, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #7: Ejercicio de Costeo Basado en Actividades (8)': [294, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #8: Costeo por Trabajo (9)': [1022, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Playbook: Finanzas personales para freelancers (10)': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #1: Qué son las finanzas personales (11)': [375, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #2: Objetivos de las finanzas personales (12)': [469, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #3: Elementos de las finanzas personales (13)': [255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #4: Cómo planear mis finanzas personales (14)': [359, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #5: Cómo mejorar mis hábitos financieros (15)': [1042, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Playbook: El ABC de los freelancers: tips fiscales y legales (16)': [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #1: ¿Por qué pagar impuestos? (17)': [755, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #2: Principales impuestos en México (18)': [1307, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #3: Personas físicas (19)': [1297, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #4: Personas morales (20)': [1139, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Playbook: Negociando tu talento (21)': [115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #1: Personal Branding (22)': [589, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #2: Conquistando seguidores (23)': [624, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #3: La cita (24)': [633, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Playbook: Protección de marca (25)': [14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #1: Importancia de los derechos de Propiedad Intelectual (26)': [340, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #2: ¿Qué se puede proteger? (27)': [960, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Video #3: ¿Cómo proteger mi marca? (28)': [881, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'Toma unos minutos y contesta la encuesta de satisfacción (29)': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+Appending video duration: 01:58
+Appending video duration: 02:14
+Appending video duration: 07:44
+Appending video duration: 02:23
+Appending video duration: 09:53
+Appending video duration: 02:49
+Appending video duration: 13:48
+Appending video duration: 09:02
+Appending video duration: 06:14
+Appending video duration: 07:36
+Appending video duration: 04:15
+Appending video duration: 06:00
+Appending video duration: 13:36
+Appending video duration: 12:41
+Appending video duration: 21:59
+Appending video duration: 10:37
+Appending video duration: 18:52
+Appending video duration: 09:56
+Appending video duration: 10:08
+Appending video duration: 10:49
+Appending video duration: 05:55
+Appending video duration: 16:34
+Appending video duration: 14:22
+ADDING TO DF2
+['modulo: 29', 'sub_modulo: 29', 'tipo de archivo: 29', 'duracion: 29']
+{'nombre': []}
+FREELAND - Arte, Objeto y Moda
+Appending video duration: 01:58
+Appending video duration: 02:14
+Appending video duration: 07:44
+Appending video duration: 02:23
+Appending video duration: 09:53
+Appending video duration: 02:49
+Appending video duration: 13:48
+Appending video duration: 09:02
+Appending video duration: 06:14
+Appending video duration: 07:36
+Appending video duration: 04:15
+Appending video duration: 06:00
+Appending video duration: 13:36
+Appending video duration: 12:41
+Appending video duration: 21:59
+Appending video duration: 10:37
+Appending video duration: 18:52
+Appending video duration: 09:56
+Appending video duration: 10:08
+Appending video duration: 10:49
+Appending video duration: 05:55
+Appending video duration: 16:34
+Appending video duration: 14:22
+Nombre: Judith Ileana Galván
+Correo: judith.rodriguez.galvan@tec.mx
+Fecha de inscripcion: 25 Sep, 2023
+Last visit: 18 Oct, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+Nombre: IE_EGL Instituto de Emprendimiento
+Correo: hola@ixlab.mx
+Fecha de inscripcion: 24 Aug, 2023
+Last visit: 18 Oct, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['-']
+Nombre: Alejandra Rodríguez de Siller Posible interesado
+Correo: arsiller@imbbylorens.com
+Fecha de inscripcion: 30 Aug, 2023
+Last visit: 11 Sep, 2023
+lenght of submodules: 9
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 6
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 5
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 4
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+ADDING TO DF2
+['modulo: 29', 'sub_modulo: 29', 'tipo de archivo: 29', 'duracion: 29']
+{'nombre': ['Judith Ileana Galván', 'IE_EGL Instituto de Emprendimiento', 'Alejandra Rodríguez de Siller Posible interesado'], 'Playbook: El Valor de tu experiencia (1)': [0, 0, 0], 'Video #1: Introducción a las finanzas emprendedoras (2)': [0, 0, 0], 'Video #2: CAPEX (3)': [0, 0, 0], 'Video #3: Ejercicio CAPEX (4)': [0, 0, 0], 'Video #4: OPEX (5)': [0, 0, 0], 'Video #5: Ejercicio OPEX (6)': [0, 0, 0], 'Video #6. Introducción a Costeo (7)': [0, 0, 0], 'Video #7: Ejercicio de Costeo Basado en Actividades (8)': [0, 0, 0], 'Video #8: Costeo por Trabajo (9)': [0, 0, 0], 'Playbook: Finanzas personales para freelancers (10)': [0, 0, 0], 'Video #1: Qué son las finanzas personales (11)': [0, 0, 0], 'Video #2: Objetivos de las finanzas personales (12)': [0, 0, 0], 'Video #3: Elementos de las finanzas personales (13)': [0, 0, 0], 'Video #4: Cómo planear mis finanzas personales (14)': [0, 0, 0], 'Video #5: Cómo mejorar mis hábitos financieros (15)': [0, 0, 0], 'Playbook: El ABC de los freelancers: tips fiscales y legales (16)': [0, 0, 0], 'Video #1: ¿Por qué pagar impuestos? (17)': [0, 0, 0], 'Video #2: Principales impuestos en México (18)': [0, 0, 0], 'Video #3: Personas físicas (19)': [0, 0, 0], 'Video #4: Personas morales (20)': [0, 0, 0], 'Playbook: Negociando tu talento (21)': [0, 0, 0], 'Video #1: Personal Branding (22)': [0, 0, 0], 'Video #2: Conquistando seguidores (23)': [0, 0, 0], 'Video #3: La cita (24)': [0, 0, 0], 'Playbook: Protección de marca (25)': [0, 0, 0], 'Video #1: Importancia de los derechos de Propiedad Intelectual (26)': [0, 0, 0], 'Video #2: ¿Qué se puede proteger? (27)': [0, 0, 0], 'Video #3: ¿Cómo proteger mi marca? (28)': [0, 0, 0], 'Toma unos minutos y contesta la encuesta de satisfacción (29)': [0, 0, 0]}
+Bloque Configuración del Objeto AD2023
+Appending video duration: 02:37
+Appending video duration: 04:47
+Appending video duration: 02:40
+Appending video duration: 04:59
+Appending video duration: 03:03
+Appending video duration: 04:41
+Appending video duration: 04:53
+Appending video duration: 02:25
+Appending video duration: 03:50
+Appending video duration: 03:18
+Appending video duration: 05:30
+Appending video duration: 04:43
+Appending video duration: 04:07
+Appending video duration: 04:39
+Appending video duration: 01:29
+Appending video duration: 01:01
+Appending video duration: 02:22
+Appending video duration: 02:03
+Appending video duration: 01:46
+Appending video duration: 02:07
+Appending video duration: 04:19
+Appending video duration: 02:43
+Appending video duration: 04:08
+Appending video duration: 01:13
+Appending video duration: 01:17
+Appending video duration: 03:00
+Appending video duration: 04:05
+Appending video duration: 03:20
+Appending video duration: 02:24
+Appending video duration: 11:20
+Appending video duration: 05:08
+Appending video duration: 02:57
+Nombre: Judith Ileana Galván
+Correo: judith.rodriguez.galvan@tec.mx
+Fecha de inscripcion: 22 Aug, 2023
+Last visit: 18 Oct, 2023
+lenght of submodules: 16
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 19
+Entered de loop 0
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 11
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 12
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 13
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 14
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 15
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 16
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 17
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 18
+['Tiempo', 'empleado', ':', '-']
+lenght of submodules: 1
+Entered de loop 0
+['']
+ADDING TO DF2
+['modulo: 36', 'sub_modulo: 36', 'tipo de archivo: 36', 'duracion: 36']
+{'nombre': ['Judith Ileana Galván'], 'Presentación del Instructor (1)': [0], 'Customer Discovery (2)': [0], 'Fases del Business Model Canvas (3)': [0], 'Hipótesis del Modelo de Negocio (4)': [0], 'Aplicar Design Thinking (5)': [0], 'Bitácora de Experimentos (6)': [0], 'Tipo de Cliente (7)': [0], 'Propuesta de Valor + Cliente (8)': [0], 'Empathy Map Canvas (9)': [0], 'Innovación vs Problema (10)': [0], 'Validación del Problema (11)': [0], '¿Cómo validar? (12)': [0], 'Insight Summary Table (13)': [0], 'Diseñando Experimentos (14)': [0], 'Manual Diseño de Experimentos (15)': [0], 'Materiales Complementarios (16)': [0], 'Antes de empezar (17)': [0], 'Apéndice (18)': [0], 'Material Complementario: Pitch Canvas (19)': [0], 'Conectar (20)': [0], '¿Para qué? (21)': [0], 'Para quién - Parte 1 (22)': [0], 'Para quién - Parte 2 (23)': [0], 'Storytelling - Parte 1 (24)': [0], 'Storytelling - Parte 2 (25)': [0], 'Narrativa (26)': [0], 'Recapitulación (27)': [0], 'La Acción (28)': [0], 'Pasado (29)': [0], 'Presente (30)': [0], 'Futuro (31)': [0], 'Call to Action (32)': [0], 'Ejemplo - Rutopia (33)': [0], 'Comentarios Finales (34)': [0], 'Canvas Storytelling (35)': [0], 'Ejemplo - Encuesta de satisfacción (36)': [0]}
+Diseño Estratégico QRO - AD2023
+Appending video duration: 00:47
+Appending video duration: 01:51
+Appending video duration: 03:57
+Appending video duration: 02:08
+Appending video duration: 03:05
+Appending video duration: 01:27
+Appending video duration: 05:26
+Appending video duration: 07:42
+Appending video duration: 05:55
+Appending video duration: 07:03
+Appending video duration: 03:51
+Appending video duration: 00:35
+Appending video duration: 00:45
+Appending video duration: 00:25
+Appending video duration: 00:10
+Appending video duration: 00:34
+Appending video duration: 00:29
+Appending video duration: 00:37
+Appending video duration: 00:24
+Appending video duration: 00:13
+Appending video duration: 00:15
+Appending video duration: 00:19
+Appending video duration: 00:21
+Appending video duration: 02:26
+Appending video duration: 01:49
+Appending video duration: 02:14
+Appending video duration: 07:44
+Appending video duration: 02:23
+Appending video duration: 09:53
+Appending video duration: 02:49
+Appending video duration: 02:42
+Appending video duration: 08:50
+Appending video duration: 03:37
+Appending video duration: 09:25
+Appending video duration: 01:40
+Appending video duration: 15:08
+Appending video duration: 03:12
+Appending video duration: 04:53
+Nombre: Maite Martínez Baca Villaseñor
+Correo: a01369450@tec.mx
+Fecha de inscripcion: 28 Sep, 2023
+Last visit: 28 Sep, 2023
+lenght of submodules: 11
+Entered de loop 0
+['Tiempo', 'empleado', ':', '51', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '1', 'min', '51', 'sec']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '2', 'min', '36', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '2', 'min', '7', 'sec']
+Entered de loop 4
+['Tiempo', 'empleado', ':', '2', 'min', '12', 'sec']
+Entered de loop 5
+['Tiempo', 'empleado', ':', '1', 'min', '16', 'sec']
+Entered de loop 6
+['Tiempo', 'empleado', ':', '4', 'sec']
+Entered de loop 7
+['Tiempo', 'empleado', ':', '1', 'min', '6', 'sec']
+Entered de loop 8
+['Tiempo', 'empleado', ':', '2', 'min']
+Entered de loop 9
+['Tiempo', 'empleado', ':', '5', 'min', '30', 'sec']
+Entered de loop 10
+['Tiempo', 'empleado', ':', '42', 'sec']
+lenght of submodules: 13
+Entered de loop 0
+['Tiempo', 'empleado', ':', '18', 'sec']
+Entered de loop 1
+['Tiempo', 'empleado', ':', '-']
+Entered de loop 2
+['Tiempo', 'empleado', ':', '43', 'sec']
+Entered de loop 3
+['Tiempo', 'empleado', ':', '24', 'sec']
+Entered de loop 4

@@ -1,0 +1,3287 @@
+Curso Semilla Consciente
+	Antes de empezar
+	<method-wrapper '__contains__' of list object at 0x7fcc76802c00>
+	Contenido
+	<method-wrapper '__contains__' of list object at 0x7fcc76685a00>
+	Final
+	<method-wrapper '__contains__' of list object at 0x7fcc76685180>
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	<method-wrapper '__contains__' of list object at 0x7fcc76802fc0>
+	Diagnóstico
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a940>
+	Crash Course Modelo de Negocios
+	<method-wrapper '__contains__' of list object at 0x7fcc76802fc0>
+	Contenido En Vivo
+	<method-wrapper '__contains__' of list object at 0x7fcc768028c0>
+	Parte Final: Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a480>
+Todos los Crash Courses Template
+	Crash Course Emprende Lab 1
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9500>
+	Crash Course Propuesta de Valor
+	<method-wrapper '__contains__' of list object at 0x7fcc767edcc0>
+	Crash Course Iteración financiera
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9500>
+	Crash Course Modelo de Negocios
+	<method-wrapper '__contains__' of list object at 0x7fcc76802880>
+	Parte Final: Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a0c0>
+Crash Course Gestión de Fondos
+	Antes de empezar
+	<method-wrapper '__contains__' of list object at 0x7fcc7686ae00>
+	Contenido
+	<method-wrapper '__contains__' of list object at 0x7fcc76802f80>
+Crash Course TRL
+	Antes de empezar
+	<method-wrapper '__contains__' of list object at 0x7fcc767edb40>
+	Contenido
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a040>
+	Final
+	<method-wrapper '__contains__' of list object at 0x7fcc76685740>
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9a00>
+	Parte Final: Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9180>
+Crash Course Iteración financiera
+	Iteración financiera
+	<method-wrapper '__contains__' of list object at 0x7fcc76685500>
+	Parte Final: Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc76685900>
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	<method-wrapper '__contains__' of list object at 0x7fcc76802340>
+	Finanzas personales para freelancers
+	<method-wrapper '__contains__' of list object at 0x7fcc766850c0>
+	El ABC de los freelancers: tips fiscales y legales
+	<method-wrapper '__contains__' of list object at 0x7fcc7668af40>
+	Negociando tu talento
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a8c0>
+	Protección de marca
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a680>
+	Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a8c0>
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	<method-wrapper '__contains__' of list object at 0x7fcc767edf00>
+	Finanzas personales para freelancers
+	<method-wrapper '__contains__' of list object at 0x7fcc768028c0>
+	El ABC de los freelancers: tips fiscales y legales
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9380>
+	Negociando tu talento
+	<method-wrapper '__contains__' of list object at 0x7fcc76685240>
+	Protección de marca
+	<method-wrapper '__contains__' of list object at 0x7fcc768028c0>
+	Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9380>
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9640>
+	Finanzas personales para freelancers
+	<method-wrapper '__contains__' of list object at 0x7fcc766857c0>
+	El ABC de los freelancers: tips fiscales y legales
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a700>
+	Negociando tu talento
+	<method-wrapper '__contains__' of list object at 0x7fcc76685e80>
+	Protección de marca
+	<method-wrapper '__contains__' of list object at 0x7fcc77781200>
+	Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a800>
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	<method-wrapper '__contains__' of list object at 0x7fcc767ede80>
+	PARTE II: Pitch
+	<method-wrapper '__contains__' of list object at 0x7fcc768028c0>
+	Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9e00>
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	<method-wrapper '__contains__' of list object at 0x7fcc7686ae00>
+	Parte 2: Crash Course Propuesta de Valor
+	<method-wrapper '__contains__' of list object at 0x7fcc76685c40>
+	Parte 3: Crash Course Iteración financiera
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9ec0>
+	Parte Final: Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc7686ae00>
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	<method-wrapper '__contains__' of list object at 0x7fcc76bdc400>
+	BLOQUE I.- Pitch
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a840>
+	BLOQUE II.- Iteración financiera
+	<method-wrapper '__contains__' of list object at 0x7fcc7668a140>
+	Encuesta de satisfacción
+	<method-wrapper '__contains__' of list object at 0x7fcc7668ad00>
+Yo y los demás III GDL - AD2023
+	INICIO
+	<method-wrapper '__contains__' of list object at 0x7fcc76685d80>
+	SEMANA 2 - SESIÓN 1
+	<method-wrapper '__contains__' of list object at 0x7fcc76685f00>
+	SEMANA 3 - SESIÓN 1
+	<method-wrapper '__contains__' of list object at 0x7fcc76685d80>
+	SEMANA 3 - Sesión 3
+	<method-wrapper '__contains__' of list object at 0x7fcc76685f00>
+	SEMANA 4 - Sesión 1, 2 y 3
+	<method-wrapper '__contains__' of list object at 0x7fcc767ede00>
+	SEMANA 5 - Sesión 1
+	<method-wrapper '__contains__' of list object at 0x7fcc767edf80>
+	SEMANA 6 - Sesión 1
+	<method-wrapper '__contains__' of list object at 0x7fcc76685500>
+	SEMANA 11 y 12
+	<method-wrapper '__contains__' of list object at 0x7fcc767edcc0>
+	SEMANA 13 y 14
+	<method-wrapper '__contains__' of list object at 0x7fcc767edf80>
+	FINAL
+	<method-wrapper '__contains__' of list object at 0x7fcc7668adc0>
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	<method-wrapper '__contains__' of list object at 0x7fcc76802380>
+	Contenido 1 - Definición de la Problemática
+	<method-wrapper '__contains__' of list object at 0x7fcc76685500>
+	Contenido 2 - Validación de Prototipos
+	<method-wrapper '__contains__' of list object at 0x7fcc767f9e00>
+	Contenido 3 - Pitch = Cómo contar tu idea
+	<method-wrapper '__contains__' of list object at 0x7fcc76802240>
+	Final
+	<method-wrapper '__contains__' of list object at 0x7fcc767ede00>
+Curso Semilla Consciente
+	Antes de empezar
+	Contenido
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Todos los Crash Courses Template
+	Crash Course Emprende Lab 1
+	Crash Course Propuesta de Valor
+	Crash Course Iteración financiera
+Curso Semilla Consciente
+	Antes de empezar
+	Contenido
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Todos los Crash Courses Template
+	Crash Course Emprende Lab 1
+	Crash Course Propuesta de Valor
+	Crash Course Iteración financiera
+Curso Semilla Consciente
+	Antes de empezar
+	Contenido
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Todos los Crash Courses Template
+	Crash Course Emprende Lab 1
+	Crash Course Propuesta de Valor
+	Crash Course Iteración financiera
+	Crash Course Modelo de Negocios
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	Parte 2: Crash Course Propuesta de Valor
+	Parte 3: Crash Course Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	BLOQUE I.- Pitch
+	BLOQUE II.- Iteración financiera
+	Encuesta de satisfacción
+Yo y los demás III GDL - AD2023
+	INICIO
+	SEMANA 2 - SESIÓN 1
+	SEMANA 3 - SESIÓN 1
+	SEMANA 3 - Sesión 3
+	SEMANA 4 - Sesión 1, 2 y 3
+	SEMANA 5 - Sesión 1
+	SEMANA 6 - Sesión 1
+	SEMANA 11 y 12
+	SEMANA 13 y 14
+	FINAL
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	Contenido 1 - Definición de la Problemática
+	Contenido 2 - Validación de Prototipos
+	Contenido 3 - Pitch = Cómo contar tu idea
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	Parte 2: Crash Course Propuesta de Valor
+	Parte 3: Crash Course Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	BLOQUE I.- Pitch
+	BLOQUE II.- Iteración financiera
+	Encuesta de satisfacción
+Yo y los demás III GDL - AD2023
+	INICIO
+	SEMANA 2 - SESIÓN 1
+	SEMANA 3 - SESIÓN 1
+	SEMANA 3 - Sesión 3
+	SEMANA 4 - Sesión 1, 2 y 3
+	SEMANA 5 - Sesión 1
+	SEMANA 6 - Sesión 1
+	SEMANA 11 y 12
+	SEMANA 13 y 14
+	FINAL
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	Contenido 1 - Definición de la Problemática
+	Contenido 2 - Validación de Prototipos
+	Contenido 3 - Pitch = Cómo contar tu idea
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Diagnóstico
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Crash Course Modelo de Negocios
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido En Vivo
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course Gestión de Fondos
+	Antes de empezar
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course TRL
+	Antes de empezar
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Final
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course Iteración financiera
+	Iteración financiera
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Finanzas personales para freelancers
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	El ABC de los freelancers: tips fiscales y legales
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Negociando tu talento
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Finanzas personales para freelancers
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	El ABC de los freelancers: tips fiscales y legales
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Negociando tu talento
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Finanzas personales para freelancers
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	El ABC de los freelancers: tips fiscales y legales
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Negociando tu talento
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	PARTE II: Pitch
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte 2: Crash Course Propuesta de Valor
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte 3: Crash Course Iteración financiera
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	BLOQUE I.- Pitch
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	BLOQUE II.- Iteración financiera
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Yo y los demás III GDL - AD2023
+	INICIO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 2 - SESIÓN 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 3 - SESIÓN 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 3 - Sesión 3
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 4 - Sesión 1, 2 y 3
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 5 - Sesión 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 6 - Sesión 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 11 y 12
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 13 y 14
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	FINAL
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido 1 - Definición de la Problemática
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido 2 - Validación de Prototipos
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido 3 - Pitch = Cómo contar tu idea
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Final
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Diagnóstico
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Crash Course Modelo de Negocios
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido En Vivo
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course Gestión de Fondos
+	Antes de empezar
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course TRL
+	Antes de empezar
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Final
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Crash Course Iteración financiera
+	Iteración financiera
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Finanzas personales para freelancers
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	El ABC de los freelancers: tips fiscales y legales
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Negociando tu talento
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Finanzas personales para freelancers
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	El ABC de los freelancers: tips fiscales y legales
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Negociando tu talento
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Finanzas personales para freelancers
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	El ABC de los freelancers: tips fiscales y legales
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Negociando tu talento
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	PARTE II: Pitch
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte 2: Crash Course Propuesta de Valor
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte 3: Crash Course Iteración financiera
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Parte Final: Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	BLOQUE I.- Pitch
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	BLOQUE II.- Iteración financiera
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Encuesta de satisfacción
+	VÍDEO
+	VÍDEO
+	VÍDEO(2)
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Yo y los demás III GDL - AD2023
+	INICIO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 2 - SESIÓN 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 3 - SESIÓN 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 3 - Sesión 3
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 4 - Sesión 1, 2 y 3
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 5 - Sesión 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 6 - Sesión 1
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 11 y 12
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	SEMANA 13 y 14
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	FINAL
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido 1 - Definición de la Problemática
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido 2 - Validación de Prototipos
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Contenido 3 - Pitch = Cómo contar tu idea
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	Final
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+	VÍDEO
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	Parte 2: Crash Course Propuesta de Valor
+	Parte 3: Crash Course Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	BLOQUE I.- Pitch
+	BLOQUE II.- Iteración financiera
+	Encuesta de satisfacción
+Yo y los demás III GDL - AD2023
+	INICIO
+	SEMANA 2 - SESIÓN 1
+	SEMANA 3 - SESIÓN 1
+	SEMANA 3 - Sesión 3
+	SEMANA 4 - Sesión 1, 2 y 3
+	SEMANA 5 - Sesión 1
+	SEMANA 6 - Sesión 1
+	SEMANA 11 y 12
+	SEMANA 13 y 14
+	FINAL
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	Contenido 1 - Definición de la Problemática
+	Contenido 2 - Validación de Prototipos
+	Contenido 3 - Pitch = Cómo contar tu idea
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	Parte 2: Crash Course Propuesta de Valor
+	Parte 3: Crash Course Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	BLOQUE I.- Pitch
+	BLOQUE II.- Iteración financiera
+	Encuesta de satisfacción
+Yo y los demás III GDL - AD2023
+	INICIO
+	SEMANA 2 - SESIÓN 1
+	SEMANA 3 - SESIÓN 1
+	SEMANA 3 - Sesión 3
+	SEMANA 4 - Sesión 1, 2 y 3
+	SEMANA 5 - Sesión 1
+	SEMANA 6 - Sesión 1
+	SEMANA 11 y 12
+	SEMANA 13 y 14
+	FINAL
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	Contenido 1 - Definición de la Problemática
+	Contenido 2 - Validación de Prototipos
+	Contenido 3 - Pitch = Cómo contar tu idea
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	Parte 2: Crash Course Propuesta de Valor
+	Parte 3: Crash Course Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	BLOQUE I.- Pitch
+	BLOQUE II.- Iteración financiera
+	Encuesta de satisfacción
+Yo y los demás III GDL - AD2023
+	INICIO
+	SEMANA 2 - SESIÓN 1
+	SEMANA 3 - SESIÓN 1
+	SEMANA 3 - Sesión 3
+	SEMANA 4 - Sesión 1, 2 y 3
+	SEMANA 5 - Sesión 1
+	SEMANA 6 - Sesión 1
+	SEMANA 11 y 12
+	SEMANA 13 y 14
+	FINAL
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	Contenido 1 - Definición de la Problemática
+	Contenido 2 - Validación de Prototipos
+	Contenido 3 - Pitch = Cómo contar tu idea
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	Parte 2: Crash Course Propuesta de Valor
+	Parte 3: Crash Course Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	BLOQUE I.- Pitch
+	BLOQUE II.- Iteración financiera
+	Encuesta de satisfacción
+Yo y los demás III GDL - AD2023
+	INICIO
+	SEMANA 2 - SESIÓN 1
+	SEMANA 3 - SESIÓN 1
+	SEMANA 3 - Sesión 3
+	SEMANA 4 - Sesión 1, 2 y 3
+	SEMANA 5 - Sesión 1
+	SEMANA 6 - Sesión 1
+	SEMANA 11 y 12
+	SEMANA 13 y 14
+	FINAL
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	Contenido 1 - Definición de la Problemática
+	Contenido 2 - Validación de Prototipos
+	Contenido 3 - Pitch = Cómo contar tu idea
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+	Encuesta de satisfacción
+Diseño Estratégico QRO - AD2023
+	Parte 1: Crash Course Emprende Lab 1
+	Parte 2: Crash Course Propuesta de Valor
+	Parte 3: Crash Course Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Bioemprendimiento y economía circular I - QRO
+	BLOQUE I.- Protección de marca
+	BLOQUE I.- Pitch
+	BLOQUE II.- Iteración financiera
+	Encuesta de satisfacción
+Yo y los demás III GDL - AD2023
+	INICIO
+	SEMANA 2 - SESIÓN 1
+	SEMANA 3 - SESIÓN 1
+	SEMANA 3 - Sesión 3
+	SEMANA 4 - Sesión 1, 2 y 3
+	SEMANA 5 - Sesión 1
+	SEMANA 6 - Sesión 1
+	SEMANA 11 y 12
+	SEMANA 13 y 14
+	FINAL
+Yo y los demás III QRO - AD2023
+	Antes de empezar
+	Contenido 1 - Definición de la Problemática
+	Contenido 2 - Validación de Prototipos
+	Contenido 3 - Pitch = Cómo contar tu idea
+	Final
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
+	Contenido En Vivo
+	Parte Final: Encuesta de satisfacción
+Crash Course Gestión de Fondos
+	Antes de empezar
+	Contenido
+Crash Course TRL
+	Antes de empezar
+	Contenido
+	Final
+Crash Course Pitch
+	Pitch = Cómo contar tu idea
+	Parte Final: Encuesta de satisfacción
+Crash Course Iteración financiera
+	Iteración financiera
+	Parte Final: Encuesta de satisfacción
+Proyecto Integrador de Comunicación Nacional
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Desarrollo de proyecto de estrategia visual Mty (DL3011B)
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+FREELAND - Arte, Objeto y Moda
+	El valor de tu experiencia
+	Finanzas personales para freelancers
+	El ABC de los freelancers: tips fiscales y legales
+	Negociando tu talento
+	Protección de marca
+	Encuesta de satisfacción
+Bloque Configuración del Objeto AD2023
+	PARTE I: Diseño de Experimentos
+	PARTE II: Pitch
+Concentración Arte, Objeto y Moda QRO AD2023
+	Crash Course Propuesta de Valor
+	Diagnóstico
+	Crash Course Modelo de Negocios
