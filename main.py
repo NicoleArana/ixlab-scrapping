@@ -12,8 +12,9 @@ from selenium.common.exceptions import TimeoutException
 import pandas as pd 
 from openpyxl.utils.dataframe import dataframe_to_rows
 from time import sleep
+import os
 
-from .env import USERNAME, PASSWORD
+from env import USERNAME, PASSWORD
 
 options = Options()
 
@@ -23,6 +24,27 @@ options = Options()
 driver = webdriver.Chrome(options=options)
 
 driver.implicitly_wait(5)
+
+def parse_time(s: str):
+    if s == "-":
+        return 0
+    
+    mins_replaced = s.replace(" min", ",")
+    secs_replaced = mins_replaced.replace(" sec", "")
+    parts = secs_replaced.split(",")
+
+    if len(parts) == 1:
+        return int(parts[0])
+    if len(parts) == 2:
+        if parts[1] == "":
+            return int(parts[0]) * 60
+        else:
+            return int(parts[0]) * 60 + int(parts[1])
+        
+    
+
+
+        
 
 def login():
     if exists("zoho_cookies.pkl") and exists("ixlab_cookies.pkl"):
@@ -39,7 +61,7 @@ def login():
                 driver.add_cookie(c)
         driver.refresh()
         # we load the tec credentials
-        driver.get("https://ixlab-mx.trainercentralsite.com/#/home")
+        driver.get("https://ixlab-mx.trainercentral.com/adminpage")
         cookies = pickle.load(open("ixlab_cookies.pkl", "rb"))
         for c in cookies:
             if "trainercentral.com" in c.get("domain"):
@@ -62,7 +84,7 @@ def login():
         pickle.dump(driver.get_cookies(), open("zoho_cookies.pkl", "wb"))
 
         # save ixlab cookies
-        driver.get("https://ixlab-mx.trainercentralsite.com/#/home")
+        driver.get("https://ixlab-mx.trainercentral.com/adminpage")
         pickle.dump(driver.get_cookies(), open("ixlab_cookies.pkl", "wb"))
  
 
@@ -83,7 +105,13 @@ def main():
         current_course = new_courses[i]
 
         course_status = current_course.find_element(By.CSS_SELECTOR, "span[data-tctest=course_published_status]")
+        print("Status: ", course_status.text)
         if (course_status.text == "Borrador"):
+            continue
+
+        # SKIPS FIRST ENTRIES FOR DEBUGGING
+        # DELETE LATER
+        if i < 5:
             continue
 
         current_course.click()
@@ -129,11 +157,11 @@ def main():
         submodules_len_modules = driver.find_elements(By.CSS_SELECTOR, "ul[class=list-unstyled]")    
 
         li_submodules_len_modules = []
-        for s, sub in enumerate(submodules_len_modules):
+        for s, time in enumerate(submodules_len_modules):
             if (s == len(submodules_len_modules) - 1):
                 break 
             if (s % 2 == 0):
-                li_submodules_len_modules.append(sub.find_element(By.TAG_NAME, "li"))
+                li_submodules_len_modules.append(time.find_element(By.TAG_NAME, "li"))
                 # try:
                 #     li_submodules_len_modules.append(sub.find_element(By.TAG_NAME, "li"))
                 # except:
@@ -234,55 +262,36 @@ def main():
                     
                     
 
-                    # class="reports-lesson-content ember-view"
-                    sections = driver.find_elements(By.CSS_SELECTOR, ".reports-lesson-content.ember-view")
-                    sections_title = driver.find_elements(By.CSS_SELECTOR,"span.report-lesson-name b")
+                    # capitulos
+                    navigation_tabs = driver.find_elements(By.CSS_SELECTOR, "ul[role=Navigation]")
+                    chapters = navigation_tabs[2].find_elements(By.CSS_SELECTOR, "*")
 
-                    driver.implicitly_wait(0.2)  
-                    total = 0  
-                    #user_data["Total"] = []
+                    
 
-                    id = 0
-                    for i in range(len(sections)):
-                        sections = driver.find_elements(By.CSS_SELECTOR, ".reports-lesson-content.ember-view")
-                        section = sections[i]
-                        #user_data[sections_title[i].text] = []
-                        section.click()
+                    total = 0
 
-                        if not i == len(sections) - 1:
-                            sleep(1)
+                    print(f"Cuantos chapters hay?: {len(chapters)}")
+                    print(f"Driver url: {driver.current_url}")
+                    
+                    for element in chapters:
+                        element.click()
+                        driver.implicitly_wait(1)
 
-                        sub_modules = section.find_elements(By.CSS_SELECTOR,"h6[data-tctest=individual_lesson_name]") 
-                        print(f"lenght of submodules: {len(sub_modules)}")
-                        
-                        time_spent = section.find_elements(By.CSS_SELECTOR,"div[data-tctest=individual_lesson-material_result] span")
+                        time_spent = driver.find_elements(By.CSS_SELECTOR, "div[data-tctest='individual_lesson-material_result'] b")
+                        sub_modules_titles = driver.find_elements(By.CSS_SELECTOR, "h6[data-tctest=individual_lesson_name]")
+
+                        print("len(time_spent) =", len(time_spent))
+
+                        id = 0
                         total_time_module = 0
 
-
-                        # if (len(sub_modules) == 0):
-                        #     user_data[sub.text].append(0)
-                        for j, sub in enumerate(sub_modules):
-                            id = id +  1   
+                        for j, time in enumerate(time_spent):
+                            id = id + 1   
                             print(f"Entered de loop {j}")
-                            parsed_time = time_spent[j].text.split(" ")
-                            print(parsed_time)
-
-                            if (len(parsed_time)) == 0:
-                                time_seconds = 0
-                            elif (len(parsed_time)) == 3:
-                                time_seconds = 0 
-                            elif (parsed_time[0]) == "Suspenso" or (parsed_time[0]) == "" or parsed_time[0] == "-":
-                                time_seconds = 0 
-                            elif (parsed_time[3]) == "-":
-                                time_seconds = 0  
-                            elif (parsed_time[4]) == "sec":
-                                time_seconds = (int(parsed_time[3]))
-                            elif(parsed_time[4] == "min" ):
-                                if (len(parsed_time)) == 7 : 
-                                    time_seconds = (int(parsed_time[3])*60) + (int(parsed_time[5]))
-                                else:
-                                    time_seconds = (int(parsed_time[3])*60)     
-                              
+                            time = time_spent[j].text
+                            time_seconds = parse_time(time)  
+                            print(f"{time} -> {time_seconds}")
+                               
                             
                             #   time = (int(time_spent[j].text.split.(" ")[5]))
 
@@ -291,24 +300,69 @@ def main():
                             # except ValueError:
                             #     time_seconds = 0
                             
+                            print(f"key: {sub_modules_titles[j].text}")
+                            print(f"id: {id}")
                             try:
-                                user_data[f"{sub.text} ({id})"].append(time_seconds)
+                                user_data[f"{sub_modules_titles[j].text} ({id})"].append(time_seconds)
                                 total_time_module = total_time_module + time_seconds 
                             except KeyError:
-                                user_data[f"{sub.text} ({id})"] = []
-                                user_data[f"{sub.text} ({id})"].append(time_seconds)
-                                total_time_module = total_time_module + time_seconds 
+                                user_data[f"{sub_modules_titles[j].text} ({id})"] = []
+                                user_data[f"{sub_modules_titles[j].text} ({id})"].append(time_seconds)
+                                total_time_module = total_time_module + time_seconds
+                        total = total + total_time_module
+
+                    driver.implicitly_wait(5)    
+                    escape_btn = driver.find_element(By.CSS_SELECTOR, "button[aria-label=Close]")
+                    escape_btn.click() 
+                        
+                        # try:
+                        #     sub_modules = driver.find_elements(By.CSS_SELECTOR,"h6[data-tctest=individual_lesson_name]") 
+                        #     print(f"lenght of submodules: {len(sub_modules)}")
+
+                        #     for module in sub_modules:
+                        #         module.click()
+                        #         time_spent = driver.find_elements(By.CSS_SELECTOR,"div[data-tctest=individual_lesson-material_result] span")
+                        #         total_time_module = 0
+                        # except:
+                        #     pass
+
+
+
+
+
+                    # driver.implicitly_wait(0.2)  
+                    # total = 0  
+                    #user_data["Total"] = []
+
+                    # id = 0
+                    # for i in range(len(sections)):
+                    #     sections = driver.find_elements(By.CSS_SELECTOR, ".reports-lesson-content.ember-view")
+                    #     section = sections[i]
+                    #     #user_data[sections_title[i].text] = []
+                    #     section.click()
+
+                    #     if not i == len(sections) - 1:
+                    #         sleep(1)
+
+                    #     sub_modules = section.find_elements(By.CSS_SELECTOR,"h6[data-tctest=individual_lesson_name]") 
+                    #     print(f"lenght of submodules: {len(sub_modules)}")
+                        
+                    #     time_spent = section.find_elements(By.CSS_SELECTOR,"div[data-tctest=individual_lesson-material_result] span")
+                    #     total_time_module = 0
+
+
+                        # if (len(sub_modules) == 0):
+                        #     user_data[sub.text].append(0)
+                        
 
 
                         #user_data[sections_title[i].text].append(total_time_module)
-                        total = total + total_time_module  
+                          
                     #user_data["Total"].append(total)       
 
                         #print([f"title: {sub_modules[i].text}, time: {time_spent[i].text}" for i in range(len(sub_modules))])
                    
-                    driver.implicitly_wait(5)    
-                    escape_btn = driver.find_element(By.CSS_SELECTOR, "button[aria-label=Close]")
-                    escape_btn.click()
+                    
 
         
         wb = Workbook()
@@ -345,7 +399,10 @@ def main():
         for r in dataframe_to_rows(df3, index=True, header=True):
             ws3.append(r)
 
-        wb.save(f"Workbook for {course_title.text}.xlsx")
+        filename = f"Workbook for {course_title.text}.xlsx" 
+        wb.save(filename)
+        os.rename(filename, f"./xlsx/{filename}")
+        
                     
 
 
